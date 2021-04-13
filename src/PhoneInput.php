@@ -45,7 +45,7 @@ JS;
     .on('submit', function() {
         $('#$id')
         .val($('#$id')
-        .intlTelInput('getNumber'));
+        .intlTelInput());
     });
 })(jQuery);
 JS;
